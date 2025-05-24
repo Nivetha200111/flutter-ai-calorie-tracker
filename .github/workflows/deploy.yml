@@ -30,7 +30,7 @@ jobs:
       run: flutter pub get
     
     - name: Build for web
-      run: flutter build web --release --base-href "/calorie-tracker-ai/"
+      run: flutter build web --release --base-href "/flutter-ai-calorie-tracker/"
     
     - name: Setup Pages
       uses: actions/configure-pages@v4
