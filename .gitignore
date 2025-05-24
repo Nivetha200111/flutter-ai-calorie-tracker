@@ -1,0 +1,35 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Web
+web/flutter_service_worker.js
+web/flutter.js
+web/main.dart.js
+web/main.dart.js.map
+
+# Misc
+.DS_Store
+.atom/
+.vscode/
+*.log
+*.tmp
+*.temp
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Original HTML app
+index.html
+app.js
+styles.css
+package.json
